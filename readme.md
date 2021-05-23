@@ -3,8 +3,8 @@
 In this project I'm building a fictional website for an Arts and Craft store called Dasmoto's Art & Crafts.
 
 Requirements for the website:
- - [ ] HTML file for basic structure
- - [ ] CSS stylesheet 
+ - [x] HTML file for basic structure
+ - [x] CSS stylesheet 
 
 &nbsp;
 
@@ -20,6 +20,3 @@ Requirements for the website:
 &nbsp;
 
 >Portfolio Project from [codecademy®](https://www.codecademy.com/).
-
-
-
